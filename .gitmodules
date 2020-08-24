@@ -1,0 +1,7 @@
+[submodule "the-third-cms"] 
+    path = the-third-cms 
+    url = https://github.com/carlhernek/the-third-cms
+
+[submodule "the-third-demo-app"] 
+    path = the-third-demo-app
+    url = https://github.com/carlhernek/the-third-demo-app
